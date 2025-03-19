@@ -20,7 +20,7 @@ Assim como demonstrado durante o desafio, realize a criação do Script SQL para
 
 ✅ Junções entre tabelas
 
-❓ Perguntas SQL
+## ❓ Perguntas SQL
 
 1️⃣ Buscar pedidos de cliente por ID?
 
